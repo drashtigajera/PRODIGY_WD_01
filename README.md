@@ -1,6 +1,6 @@
 # PRODIGY_WD_01
 
-<ul><li>Developed a responsive landing page that seamlessly adapts to various screen size and devices</li></u>
+<ul><li>Developed a responsive landing page that seamlessly adapts to various screen size and devices.</li></u>
   
 <ul><li>Gained a comprehensive understanding of responsive design principles and techniques through this task.</li></u>
 
