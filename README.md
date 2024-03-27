@@ -1,8 +1,10 @@
 # PRODIGY_WD_01
 
-<ul><li>Developed a responsive landing page that seamlessly adapts to various screen size and devices.</li></u>
+<b>DESCRIPTION:</b>
+
+<ul><li>Developed a responsive landing page that seamlessly adapts to various screen size and devices.</li></ul>
   
-<ul><li>Gained a comprehensive understanding of responsive design principles and techniques through this task.</li></u>
+<ul><li>Gained a comprehensive understanding of responsive design principles and techniques through this task.</li></ul>
 
 <ul><li>Created an interactive navigation menu that changes color or style when scrolled or hovered over.</li></ul>
 
@@ -20,6 +22,4 @@ HTML, CSS,  Javascript
 This is the preview of this project. You can visit live preview on Click here
 
 
-
-#Code : 
 
