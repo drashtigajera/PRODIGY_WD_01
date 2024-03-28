@@ -21,5 +21,5 @@ HTML, CSS,  Javascript
 
 This is the preview of this project. You can visit live preview.
 
-[Click here..](https://singular-queijadas-bba665.netlify.app/)
+[Click here..](https://responsive-landing-page-task.netlify.app/)
 
